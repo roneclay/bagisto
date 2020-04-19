@@ -260,7 +260,7 @@ return [
 
         'roles' => [
             'title' => 'Funções',
-            'add-role-title' => 'Add Função',
+            'add-role-title' => 'Adicionar Função',
             'edit-role-title' => 'Editar Função',
             'save-btn-title' => 'Salvar Função',
             'general' => 'Geral',
@@ -274,7 +274,7 @@ return [
 
         'users' => [
             'title' => 'Usuário',
-            'add-user-title' => 'Add Usuário',
+            'add-user-title' => 'Adicionar Usuário',
             'edit-user-title' => 'Editar Usuário',
             'save-btn-title' => 'Salvar Usuário',
             'general' => 'Geral',
@@ -452,8 +452,8 @@ return [
     'catalog' => [
         'products' => [
             'title' => 'Produtos',
-            'add-product-btn-title' => 'Add Produto',
-            'add-title' => 'Add Produto',
+            'add-product-btn-title' => 'Adicionar Produto',
+            'add-title' => 'Adicionar Produto',
             'edit-title' => 'Editar Produto',
             'save-btn-title' => 'Salvar Produto',
             'general' => 'Geral',
@@ -469,7 +469,7 @@ return [
             'yes' => 'Sim',
             'disabled' => 'Desativado',
             'enabled' => 'Ativado',
-            'add-variant-btn-title' => 'Add Variação',
+            'add-variant-btn-title' => 'Adicionar',
             'name' => 'Nome',
             'qty' => 'Qtd',
             'price' => 'Preço',
